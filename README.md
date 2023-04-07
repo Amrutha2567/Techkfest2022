@@ -1,2 +1,2 @@
-# Techkfest2022
+# Techfest2022
 Docker and HackerEarth2022
